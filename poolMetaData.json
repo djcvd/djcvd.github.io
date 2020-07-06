@@ -1,6 +1,6 @@
 {
-"homepage": "https://github.com/djcvd/Carbonara-pool",
 "name": "Carbonara",
+"description": "all margin fees received will be used to increase pledge amount of the pool",
 "ticker": "CRB",
-"description": "all margin fees received will be used to increase pledge amount of the pool"
+"homepage": "https://github.com/djcvd/Carbonara-pool"
 }
